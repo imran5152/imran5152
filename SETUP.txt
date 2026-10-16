@@ -1,0 +1,19 @@
+IMRAN5152 — ANIMATED GITHUB PROFILE
+
+Repo name exactly imran5152, Public, branch main.
+Create these files using Add file -> Create new file:
+1. README.md (copy supplied README code)
+2. assets/hero.svg (copy supplied SVG code)
+3. .github/workflows/snake.yml (copy supplied workflow code)
+Commit each to main.
+
+Then Actions -> Contribution snake -> Run workflow -> Run workflow.
+When green, open github.com/imran5152. The output branch is generated automatically.
+No personal access token or new secret is needed. Standard GITHUB_TOKEN is used.
+Snake refreshes daily and can be refreshed manually. Organization restrictions on Actions may require repository-owner changes.
+
+The banner uses native SVG/CSS animations; the snake uses your actual contribution history. No React/JavaScript runs in GitHub READMEs.
+For GitHub's surrounding background choose Settings -> Appearance -> Dark.
+
+References consulted: github.com/DenverCoder1/DenverCoder1 and github.com/Platane/Platane. Custom banner independently created.
+GitHub Actions workflow is statically checked here; it has NOT been run on your repository.
